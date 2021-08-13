@@ -1,19 +1,14 @@
 {
-  "app": [
-    {
-      "id": 1,
-      "title": "web-site-api-rest",
-      "author": "Gandini Gustavo"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "from-api-git"
+  "Insituto Juan Gutenberg": {
+    "id": 1,
+    "title": "Tecnico superior en Diseño Multimedial",
+    "anios": 3,
+    "terminada": true
+  },
+  "Universidad de La PUnta": {
+    "id": 2,
+    "title": "Desarrollador de Software",
+    "anios": 2,
+    "terminada": true
   }
 }
