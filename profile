@@ -2,7 +2,7 @@
   "app": [
     {
       "id": 1,
-      "title": "web-site-api-rest",
+      "title": "web-site",
       "author": "Gandini Gustavo"
     }
   ],
@@ -14,6 +14,6 @@
     }
   ],
   "profile": {
-    "name": "from-api-git"
+    "name": "typicode"
   }
 }
