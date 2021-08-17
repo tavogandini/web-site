@@ -1,1 +1,16 @@
-[{"id":1,"title":"Tecnico superior en Diseño Multimedial","uni":"Insituto Juan Gutenberg","anios":3,"terminada":true},{"id":2,"title":"Desarrollador de Software","uni":"Universidad de La Punta ","anios":2,"terminada":true},{"title":"street","uni":"la calle","anios":"66","terminada":"yes","id":4},{"title":"street","uni":"la calle","anios":"66","terminada":"yes","id":4}]
+[
+  {
+    "id": 1,
+    "title": "Tecnico superior en Diseï¿½o Multimedial",
+    "uni": "Insituto Juan Gutenberg",
+    "anios": 3,
+    "terminada": true
+  },
+  {
+    "id": 2,
+    "title": "Desarrollador de Software",
+    "uni": "Universidad de La Punta ",
+    "anios": 2,
+    "terminada": true
+  }
+]
