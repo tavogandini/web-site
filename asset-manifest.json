@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.af94ecce.chunk.css",
-    "main.js": "./static/js/main.720b5b7c.chunk.js",
-    "main.js.map": "./static/js/main.720b5b7c.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1d9c9d51.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1d9c9d51.js.map",
+    "main.css": "./static/css/main.e2e097e3.chunk.css",
+    "main.js": "./static/js/main.1b3459a6.chunk.js",
+    "main.js.map": "./static/js/main.1b3459a6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3b89b76d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3b89b76d.js.map",
     "static/css/2.147cd7d6.chunk.css": "./static/css/2.147cd7d6.chunk.css",
-    "static/js/2.058c9b0b.chunk.js": "./static/js/2.058c9b0b.chunk.js",
-    "static/js/2.058c9b0b.chunk.js.map": "./static/js/2.058c9b0b.chunk.js.map",
-    "static/js/3.1e3592bc.chunk.js": "./static/js/3.1e3592bc.chunk.js",
-    "static/js/3.1e3592bc.chunk.js.map": "./static/js/3.1e3592bc.chunk.js.map",
+    "static/js/2.aecdec87.chunk.js": "./static/js/2.aecdec87.chunk.js",
+    "static/js/2.aecdec87.chunk.js.map": "./static/js/2.aecdec87.chunk.js.map",
+    "static/js/3.140c6cd0.chunk.js": "./static/js/3.140c6cd0.chunk.js",
+    "static/js/3.140c6cd0.chunk.js.map": "./static/js/3.140c6cd0.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.147cd7d6.chunk.css.map": "./static/css/2.147cd7d6.chunk.css.map",
-    "static/css/main.af94ecce.chunk.css.map": "./static/css/main.af94ecce.chunk.css.map",
-    "static/js/2.058c9b0b.chunk.js.LICENSE.txt": "./static/js/2.058c9b0b.chunk.js.LICENSE.txt",
-    "static/media/theme.additional.css": "./static/media/dxiconsmaterial.9bea124e.woff2"
+    "static/css/main.e2e097e3.chunk.css.map": "./static/css/main.e2e097e3.chunk.css.map",
+    "static/js/2.aecdec87.chunk.js.LICENSE.txt": "./static/js/2.aecdec87.chunk.js.LICENSE.txt",
+    "static/media/theme.additional.css": "./static/media/dxiconsmaterial.9bea124e.woff2",
+    "static/media/side-navigation-menu.scss": "./static/media/imgback.ff95615c.png",
+    "static/media/js-logo.75220e22.png": "./static/media/js-logo.75220e22.png",
+    "static/media/logo-visual-studio.125ec097.png": "./static/media/logo-visual-studio.125ec097.png",
+    "static/media/sql-server-logo.fb4c0c66.png": "./static/media/sql-server-logo.fb4c0c66.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d9c9d51.js",
+    "static/js/runtime-main.3b89b76d.js",
     "static/css/2.147cd7d6.chunk.css",
-    "static/js/2.058c9b0b.chunk.js",
-    "static/css/main.af94ecce.chunk.css",
-    "static/js/main.720b5b7c.chunk.js"
+    "static/js/2.aecdec87.chunk.js",
+    "static/css/main.e2e097e3.chunk.css",
+    "static/js/main.1b3459a6.chunk.js"
   ]
 }
